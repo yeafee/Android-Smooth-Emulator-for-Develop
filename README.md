@@ -29,15 +29,19 @@
  3. 根据自己的系统[下载并安装](https://www.genymotion.com/#!/download) Genymotion；
  
 启动Genymotion
+
 ![enter image description here](https://lh3.googleusercontent.com/66_K51N5wvvgXz91KyE2BP7tuDJsQjyjeYgN65uixqk=s600 )
 
 添加设备
+
 ![enter image description here](https://lh3.googleusercontent.com/-0u3sa4q88cg/VUIeKQKeUqI/AAAAAAAAA78/Jap-h9C3aWA/s600/QQ%25E6%2588%25AA%25E5%259B%25BE20150430201856.jpg )
 
 启动设备
+
 ![enter image description here](https://lh3.googleusercontent.com/-pjk8lBm2pqo/VUIffDXlDeI/AAAAAAAAA8Q/NaSSaBxDNOo/s600/000.gif )
 
 免费版跟收费版功能的区别
+
 ![enter image description here](https://lh3.googleusercontent.com/-Xswg7RXC9dw/VUIgdIGFcUI/AAAAAAAAA8k/da5cAvJ70hs/s800/QQ%25E6%2588%25AA%25E5%259B%25BE20150430202656.jpg)
 
 此外，Genymotion还提供了`Eclipse`和`Intellij Idea(Android Studio)`的插件，方便你从IDE启动模拟器，不过目前插件的功能也仅仅是用于启动模拟器。
